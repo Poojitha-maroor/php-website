@@ -39,7 +39,7 @@
           <li class="nav-item">
             <a class="nav-link" href="co.php"><b>Co-Ordinators</b></a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
             <a class="nav-link" href="images.php"><b>Images</b></a>
           </li>
           <li class="nav-item">
