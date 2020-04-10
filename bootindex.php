@@ -114,10 +114,10 @@ nav{ color:whitesmoke }
    <div id="carouselExampleInterval" style="width:500px;" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active" data-interval="2000">
-        <img src="s1.jpeg" class="d-block w-100" alt="Sri Sri" height="400" width="800">
+        <img src="s6.jpeg" class="d-block w-100" alt="Sri Sri" height="400" width="800">
       </div>
       <div class="carousel-item" data-interval="2000">
-        <img src="s5.jpeg" class="d-block w-100" alt="Sri sri" height="400" width="800">
+        <img src="s2.jpeg" class="d-block w-100" alt="Sri sri" height="400" width="800">
       </div>
       <div class="carousel-item" data-interval="2000">
         <img src="s3.jpeg" class="d-block w-100" alt="Sri Sri" height="400" width="800">
@@ -137,27 +137,29 @@ nav{ color:whitesmoke }
   <div class="rightcolumn">
   <div class="jumbotron jumbotron-fluid">
 <div class="container"> 
-  <form action="dlogin.php" method="POST">
-    <h4><font color="white">FOR REGISTRATIONS!!!</font></h4>
+  <h2><font color="white">SIGN IN!!!</font></h2>
+  <form action="info_insert.php" method="POST">
+    
     <div class="form-group">
       <label for="exampleInputEmail1">Email address</label>
       <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+      <small id="emailHelp"  class="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
     <div class="form-group">
-      <label for="exampleInputPassword1">Password</label>
-      <input type="password" name="password" class="form-control" id="exampleInputPassword1">
+      <label for="exampleInputPassword1">Phone Number</label>
+      <input type="text" name="phone" class="form-control" id="exampleInputPassword1">
     </div>
     <div class="form-group form-check">
       <input type="checkbox" class="form-check-input" id="exampleCheck1">
       <label class="form-check-label" for="exampleCheck1"><font color="whitesmoke">Check me out</font></label>
     </div>
-    <button type="submit" class="btn btn-custom">Login</button><br>
-    <font color="whitesmoke">Already have an account? </font><a href="clickhere.php"><font color=" #C3073F">Click here</font></a><font color="whitesmoke"> to login</font>
+    <button type="submit" class="btn btn-custom">SignUp</button><br>
+    
   </form>
   </div>
   </div>
   </div>
+  
   <br><br><br><br><br><br><br><br><br>
   <br><br><br><br><br><br><br><br><br>
       <div class="paddings">
@@ -173,4 +175,3 @@ nav{ color:whitesmoke }
   </body>
 
 </html>
-
