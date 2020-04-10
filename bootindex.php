@@ -137,7 +137,7 @@ nav{ color:whitesmoke }
   <div class="rightcolumn">
   <div class="jumbotron jumbotron-fluid">
 <div class="container"> 
-  <h2><font color="white">SIGN IN!!!</font></h2>
+  <h2><font color="white">FOR REGISTRATIONS!!!</font></h2>
   <form action="info_insert.php" method="POST">
     
     <div class="form-group">
