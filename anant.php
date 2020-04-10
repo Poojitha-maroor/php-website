@@ -21,6 +21,6 @@
 <b><font size="10" color="#C3073F"><center>Anant Bhandarkar</center></font></b></div>
 <br><br>
 
-<center><img src="anant.jpeg" alt="anant.jpeg" height="200" width="200" style="border:4px solid white"></center>
+<center><img src="anant.jpeg" alt="anant.jpeg" height="300" width="300" style="border:4px solid white"></center>
 </body>
 </html>
