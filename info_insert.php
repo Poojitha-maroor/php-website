@@ -25,6 +25,7 @@
       else
       {
           echo '<script> alert("Successfully record inserted");</script>';
+          header("location:bootindex.php");
          //echo "<h3 style='color:green;'><center>Record Inserted</center></h3>";
       }
 
